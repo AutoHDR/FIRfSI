@@ -4,3 +4,6 @@ This repository contains the official implementation of "Face Inverse Rendering 
 
 
 <center><img src="results.png " width="50%"></center>
+
+Thanks to [**SfSNet-PyTorch**](https://github.com/bhushan23/SfSNet-PyTorch), [**DPR**](https://github.com/zhhoper/DPR) and [**3DMM**](https://github.com/MichaelMure/3DMM) our code is partially borrowing from them.
+
